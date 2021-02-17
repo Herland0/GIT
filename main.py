@@ -5,3 +5,7 @@ if a==b:
   print("Równe")
 else:
   print("Nierówne")
+  
+znaczek = 30*"-"
+print(znaczek)
+print("Czasem tak a czasem nie")
